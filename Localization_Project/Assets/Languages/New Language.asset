@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 140a1deb0c6748c4a87ac8ccd2f9df0b, type: 3}
+  m_Name: New Language
+  m_EditorClassIdentifier: 
+  words:
+  - key: test
+    value: chicken
+  - key: Hello
+    value: test
+  - key: Hello
+    value: test
+  - key: Hello
+    value: test
+  - key: Key
+    value: 123
+  - key: 123
+    value: apple
+  - key: 999
+    value: test
+  - key: 888
+    value: rabbit
+  languageName: New Language
+  nameToSet: New Language
+  wordToSet: test
+  keyToSet: 888
